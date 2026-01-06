@@ -1,0 +1,56 @@
+# Multi-Asset Hedge Fund Groups and Roles
+
+## Groups
+
+### Investment Team
+
+- **Portfolio Managers**
+- **Analysts**
+
+- **Traders**
+
+### Operations
+
+- **Middle Office**
+- **Back Office**
+
+- **Fund Accounting**
+
+### Risk Management
+
+- **Risk Analysts**
+- **Compliance Officers**
+
+### Technology
+
+- **Developers**
+- **IT Support**
+
+- **Data Engineers**
+
+### Management
+
+- **Executives**
+- **Directors**
+
+### Investor Relations
+
+- **Client Services**
+- **Marketing**
+
+## Roles
+
+### Reader
+
+- Access to view data and reports.
+- Suitable for analysts, risk management, and investor relations.
+
+### Writer
+
+- Ability to input and modify data.
+- Appropriate for traders, fund accountants, and developers.
+
+### Admin
+
+- Full control over data and system configurations.
+- Reserved for IT admins and senior management.
